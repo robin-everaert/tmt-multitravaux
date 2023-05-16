@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tmt-multitravaux/static/css/main.d5a0ccd0.css",
+    "main.js": "/tmt-multitravaux/static/js/main.3a92bfb8.js",
+    "index.html": "/tmt-multitravaux/index.html",
+    "main.d5a0ccd0.css.map": "/tmt-multitravaux/static/css/main.d5a0ccd0.css.map",
+    "main.3a92bfb8.js.map": "/tmt-multitravaux/static/js/main.3a92bfb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a0ccd0.css",
+    "static/js/main.3a92bfb8.js"
+  ]
+}
