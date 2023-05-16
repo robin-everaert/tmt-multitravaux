@@ -1,0 +1,9 @@
+#header, #footer {
+    min-height: 15vh;
+}
+#main {
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
