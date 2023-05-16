@@ -1,9 +1,30 @@
-#header, #footer {
-    min-height: 15vh;
+$mainColor: #ff6d00;
+$secondColor: #FFB000;
+
+$white: #fff;
+$black: #333;
+
+html {
+    scroll-behavior: smooth;
 }
-#main {
-    min-height: 70vh;
+
+//Provisoire 
+// #header, #footer {
+//     min-height: 10vh;
+// }
+#footer {
+    width: 100%;
+    background: $mainColor;
+    color: $white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+#main {
+    color: $black;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

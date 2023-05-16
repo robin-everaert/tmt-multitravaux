@@ -1,8 +1,14 @@
+// Logo
 
+.container-logo-header {
+    img {
+        width: 125px;
+    }
+}
 // NavBar
-
-.main-navBar {
+#navBar {
     .btn {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
+        padding: 6px 8px;
     }
 }
