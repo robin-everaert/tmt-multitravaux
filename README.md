@@ -2,7 +2,7 @@
 Projet en développement
 
 ### Url rendu du projet :
-https://robin.everaert.github.io/tmt-multitravaux/
+[https://robin.everaert.github.io/tmt-multitravaux/]
 
 
 ### Technologies :
