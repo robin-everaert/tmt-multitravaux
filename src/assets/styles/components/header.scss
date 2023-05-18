@@ -1,0 +1,17 @@
+#header {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#navBar {
+    background: $orangeBack;
+    padding: 1.5em 0;
+    a {
+        font-size: 1.1rem;
+    }
+    .active a, .btn:hover {
+        color: $mainColor !important;
+    }
+}
+
+
+

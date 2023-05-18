@@ -1,0 +1,21 @@
+
+#footer {
+    font-family: 'Josefin Sans', sans-serif;
+    background: $orangeBack;
+
+
+    .logo {
+        width: 200px;
+    }
+}
+
+@media(min-width: 768px) {
+
+    #footer {
+        .contact-sitebar-container {
+            justify-content: center !important;
+        }
+    }
+
+}
+

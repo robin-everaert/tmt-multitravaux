@@ -4,22 +4,19 @@ $secondColor: #FFB000;
 $white: #fff;
 $black: #333;
 
+$orangeBack: rgba(255, 109, 0, 0.05);
+
 html {
     scroll-behavior: smooth;
 }
-
-//Provisoire 
-// #header, #footer {
-//     min-height: 10vh;
-// }
-#footer {
-    width: 100%;
-    background: $mainColor;
-    color: $white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+a {
+    text-decoration: none;
+    color: $black;
 }
+
+// Font : 
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
 #main {
     color: $black;
     min-height: 60vh;

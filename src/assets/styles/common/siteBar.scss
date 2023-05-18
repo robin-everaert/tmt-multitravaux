@@ -1,0 +1,32 @@
+.sitebar-container {
+    
+    div {
+        margin: 0.2em;
+    }
+    i {
+        font-size: 1.2rem;
+        color: $mainColor; 
+        width: 30px;  
+        text-align: center;
+    }
+    a:hover {
+        color: $mainColor;
+    }
+    .logo-header-container {
+        .logo {
+            width: 200px;
+        }
+    }
+}
+
+/**
+* DEKSTOP : 
+**/
+@media(min-width: 768px) {
+    .sitebar-container {
+    
+        div {
+            margin: 0 1em;
+        }
+    }
+}
