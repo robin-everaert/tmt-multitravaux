@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/tmt-multitravaux/static/css/main.735e8bc2.css",
-    "main.js": "/tmt-multitravaux/static/js/main.d7533a29.js",
+    "main.css": "/tmt-multitravaux/static/css/main.4785bd3a.css",
+    "main.js": "/tmt-multitravaux/static/js/main.fcb899b9.js",
+    "static/media/banner.jpg": "/tmt-multitravaux/static/media/banner.557f5ca27fd73043727e.jpg",
+    "static/media/garantie-decennale.png": "/tmt-multitravaux/static/media/garantie-decennale.b17b7df1a68bdb30c31f.png",
     "static/media/logo.png": "/tmt-multitravaux/static/media/logo.4ca4bf293272e8f13657.png",
+    "static/media/depannage-icon.png": "/tmt-multitravaux/static/media/depannage-icon.68635111320ed342e356.png",
+    "static/media/carrelage-icon.png": "/tmt-multitravaux/static/media/carrelage-icon.d9304912c74cd2affdbb.png",
+    "static/media/electricite-icon.png": "/tmt-multitravaux/static/media/electricite-icon.44832feaa1cac20a9d13.png",
+    "static/media/peinture-icon.png": "/tmt-multitravaux/static/media/peinture-icon.7795bf3af36cf8cadc91.png",
+    "static/media/sdb-icon.png": "/tmt-multitravaux/static/media/sdb-icon.3a544e0d89b892fdf356.png",
+    "static/media/plomberie-icon.png": "/tmt-multitravaux/static/media/plomberie-icon.681e972dff68a5042de3.png",
+    "static/media/cuisine-icon.png": "/tmt-multitravaux/static/media/cuisine-icon.f2a722cd620553b7ac0f.png",
     "index.html": "/tmt-multitravaux/index.html",
-    "main.735e8bc2.css.map": "/tmt-multitravaux/static/css/main.735e8bc2.css.map",
-    "main.d7533a29.js.map": "/tmt-multitravaux/static/js/main.d7533a29.js.map"
+    "main.4785bd3a.css.map": "/tmt-multitravaux/static/css/main.4785bd3a.css.map",
+    "main.fcb899b9.js.map": "/tmt-multitravaux/static/js/main.fcb899b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.735e8bc2.css",
-    "static/js/main.d7533a29.js"
+    "static/css/main.4785bd3a.css",
+    "static/js/main.fcb899b9.js"
   ]
 }
