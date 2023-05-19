@@ -1,27 +1,56 @@
+// Colors : 
 $mainColor: #ff6d00;
 $secondColor: #FFB000;
-
 $white: #fff;
 $black: #333;
-
 $orangeBack: rgba(255, 109, 0, 0.05);
 
+// Font : 
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body, header, main, footer {
+    font-family: 'Josefin Sans', sans-serif;
+} 
+// Global : 
 html {
     scroll-behavior: smooth;
 }
 a {
     text-decoration: none;
     color: $black;
+        &:hover {
+            text-decoration: none;
+            color: #333;
+        }
 }
-
-// Font : 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
 #main {
-    color: $black;
-    min-height: 60vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+    h1 {
+        color: $mainColor;
+        font-size: 2rem;
+        text-align: center;
+    }
+    p, ul, li {
+        color: $black;
+    }
 }
+
+// Dekstop : 
+@media(min-width: 768px) {
+
+    #main {
+
+        h1 {
+            font-size: 3rem;
+        }
+    }
+}
+
+// Provisoire 
+footer {
+    margin-top: 10vh;
+}
+
+
 
